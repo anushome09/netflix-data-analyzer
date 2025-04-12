@@ -1,0 +1,10 @@
+Day 2: Core Analysis – Content Insights (2 hours)
+Movie vs TV show distribution
+
+Top 10 producing countries
+
+Most frequent genres
+
+Top-rated directors (optional)
+
+Clean/standardize messy columns (like 'listed_in')
